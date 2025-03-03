@@ -12,7 +12,7 @@ export default function Terms() {
           <ArrowLeftIcon className="w-4 h-4" />
           Back to Chatbot
         </Link>
-        <h1 className="text-3xl font-bold">Personal AI Chatbot</h1>
+        <h1 className="text-3xl font-bold">Fixit Buddy</h1>
         <h2 className="text-2xl font-semibold">Terms of Use and Disclaimer</h2>
 
         <p className="text-gray-700">
